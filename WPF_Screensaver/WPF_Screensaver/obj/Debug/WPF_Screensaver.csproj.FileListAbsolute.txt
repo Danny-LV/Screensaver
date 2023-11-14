@@ -1,0 +1,16 @@
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\bin\Debug\WPF_Screensaver.exe.config
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\bin\Debug\WPF_Screensaver.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\bin\Debug\WPF_Screensaver.pdb
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.csproj.AssemblyReference.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\App.g.cs
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver_MarkupCompile.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver_MarkupCompile.lref
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\MainWindow.baml
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.g.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.exe
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver.pdb
+C:\Users\ПК\OneDrive\Desktop\C# program\WPF_Screensaver\WPF_Screensaver\obj\Debug\WPF_Screensaver_Content.g.cs

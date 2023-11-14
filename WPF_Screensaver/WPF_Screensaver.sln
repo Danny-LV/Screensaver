@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Screensaver", "WPF_Screensaver\WPF_Screensaver.csproj", "{F14B4015-39B5-40E8-B733-9B1D4ABB2888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14B4015-39B5-40E8-B733-9B1D4ABB2888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14B4015-39B5-40E8-B733-9B1D4ABB2888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14B4015-39B5-40E8-B733-9B1D4ABB2888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14B4015-39B5-40E8-B733-9B1D4ABB2888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6944E153-6BE0-4569-96CF-879722301789}
+	EndGlobalSection
+EndGlobal
